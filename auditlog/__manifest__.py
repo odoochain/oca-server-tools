@@ -7,7 +7,7 @@
     "author": "ABF OSIELL, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "website": "https://github.com/OCA/server-tools",
-    "category": "Tools",
+    "category": "Generic Modules/Tools",
     "depends": ["base"],
     "data": [
         "security/ir.model.access.csv",

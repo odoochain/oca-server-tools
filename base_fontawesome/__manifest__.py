@@ -8,6 +8,7 @@
     "version": "15.0.5.15.4",
     "license": "LGPL-3",
     "website": "https://github.com/OCA/server-tools",
+    "category": "Generic Modules/Tools",
     "author": "Camptocamp,Creu Blanca,Odoo Community Association (OCA)",
     "depends": ["web"],
     "assets": {

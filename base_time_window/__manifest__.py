@@ -4,7 +4,7 @@
     "name": "Base Time Window",
     "summary": "Base model to handle time windows",
     "version": "15.0.1.0.0",
-    "category": "Technical Settings",
+    "category": "Generic Modules/Tools",
     "author": "ACSONE SA/NV, Camptocamp, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "website": "https://github.com/OCA/server-tools",

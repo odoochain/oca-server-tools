@@ -6,7 +6,7 @@
     "summary": "Performs a difference analysis between modules"
     " installed on two different Odoo instances",
     "version": "15.0.2.0.0",
-    "category": "Migration",
+    "category": "Generic Modules/Migration",
     "author": "Therp BV, Opener B.V., GRAP, Odoo Community Association (OCA)",
     "maintainers": ["StefanRijnhart", "legalsylvain"],
     "website": "https://github.com/OCA/server-tools",

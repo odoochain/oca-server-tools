@@ -10,7 +10,7 @@
     "maintainers": ["LoisRForgeFlow", "ChrisOForgeFlow"],
     "development_status": "Production/Stable",
     "website": "https://github.com/OCA/server-tools",
-    "category": "Tools",
+    "category": "Generic Modules/Tools",
     "depends": ["base"],
     "data": ["views/ir_cron_view.xml"],
     "license": "LGPL-3",
