@@ -6,7 +6,7 @@
     "author": "Therp BV," "Tecnativa," "Acysos S.L," "Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/server-tools",
     "license": "AGPL-3",
-    "category": "Tools",
+    "category": "Generic Modules/Tools",
     "summary": "Request SSL certificates from letsencrypt.org",
     "depends": ["base_setup"],
     "data": [

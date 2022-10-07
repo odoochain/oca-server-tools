@@ -267,7 +267,7 @@ class DbBackup(models.Model):
             self.message_post(  # pylint: disable=translation-required
                 body="<p>%s</p><pre>%s</pre>"
                 % (_("Cleanup of old database backups failed."), escaped_tb),
-                subtype_id=self.env.ref("auto_backup.failure").id,
+                subtype_id=self.env.ref("auto_backup.mail_message_subtype_failure").id,
             )
         else:
             _logger.info("Cleanup of old database backups succeeded: %s", self.name)

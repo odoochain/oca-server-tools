@@ -7,7 +7,7 @@
     "version": "15.0.1.0.0",
     "author": "Camptocamp, Odoo Community Association (OCA)",
     "license": "AGPL-3",
-    "category": "Misc",
+    "category": "Generic Modules/Tools",
     "depends": [
         "base",
     ],
