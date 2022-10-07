@@ -6,7 +6,7 @@
     "name": "Module Auto Update",
     "summary": "Automatically update Odoo modules",
     "version": "15.0.1.0.0",
-    "category": "Extra Tools",
+    "category": "Generic Modules/Extra Tools",
     "website": "https://github.com/OCA/server-tools",
     "author": "LasLabs, "
     "Juan José Scarafía, "

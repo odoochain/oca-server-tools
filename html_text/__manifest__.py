@@ -5,7 +5,7 @@
     "name": "Text from HTML field",
     "summary": "Generate excerpts from any HTML field",
     "version": "15.0.1.0.0",
-    "category": "Tools",
+    "category": "Generic Modules/Tools",
     "website": "https://github.com/OCA/server-tools",
     "author": "Grupo ESOC Ingeniería de Servicios, "
     "Tecnativa, "
