@@ -9,6 +9,7 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo-addon-auditlog>=15.0dev,<15.1dev',
+        'odoo-addon-auto_backup>=15.0dev,<15.1dev',
         'odoo-addon-base_conditional_image>=15.0dev,<15.1dev',
         'odoo-addon-base_cron_exclusion>=15.0dev,<15.1dev',
         'odoo-addon-base_exception>=15.0dev,<15.1dev',
@@ -24,6 +25,7 @@ setuptools.setup(
         'odoo-addon-html_text>=15.0dev,<15.1dev',
         'odoo-addon-letsencrypt>=15.0dev,<15.1dev',
         'odoo-addon-module_auto_update>=15.0dev,<15.1dev',
+        'odoo-addon-module_change_auto_install>=15.0dev,<15.1dev',
         'odoo-addon-onchange_helper>=15.0dev,<15.1dev',
         'odoo-addon-upgrade_analysis>=15.0dev,<15.1dev',
     ],

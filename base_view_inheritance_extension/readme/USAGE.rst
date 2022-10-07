@@ -11,6 +11,6 @@
         </attribute>
     </field>
 
-
+Plese use "conda install -c conda-forge astor"
 Note that views are subject to evaluation of xmlids anyways, so if you need
 to refer to some xmlid, say ``%(xmlid)s``.
