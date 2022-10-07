@@ -23,10 +23,10 @@ Base Cron Exclusion
     :target: https://runbot.odoo-community.org/runbot/149/15.0
     :alt: Try me on Runbot
 
-|badge1| |badge2| |badge3| |badge4| |badge5| 
+|badge1| |badge2| |badge3| |badge4| |badge5|
 
 This module extends the functionality of scheduled actions to allow you to
-select the ones that should not run simultaneously.
+select the ones that should not run simultaneously(同时）.
 
 **Table of contents**
 
@@ -92,7 +92,7 @@ promote its widespread use.
 
 Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
 
-|maintainer-LoisRForgeFlow| |maintainer-ChrisOForgeFlow| 
+|maintainer-LoisRForgeFlow| |maintainer-ChrisOForgeFlow|
 
 This module is part of the `OCA/server-tools <https://github.com/OCA/server-tools/tree/15.0/base_cron_exclusion>`_ project on GitHub.
 

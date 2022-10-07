@@ -23,11 +23,19 @@ Upgrade Analysis
     :target: https://runbot.odoo-community.org/runbot/149/15.0
     :alt: Try me on Runbot
 
-|badge1| |badge2| |badge3| |badge4| |badge5| 
+|badge1| |badge2| |badge3| |badge4| |badge5|
 
 This module provides the tool to generate the database analysis files that indicate how the Odoo data model and module data have changed between two versions of Odoo. Database analysis files for the core modules are included in the OpenUpgrade distribution so as a migration script developer you will not usually need to use this tool yourself. If you do need to run your analysis of a custom set of modules, please refer to the documentation here: https://doc.therp.nl/openupgrade/analysis.html
 
 This module is just a tool, a continuation of the old openupgrade_records in OpenUpgrade in previous versions. It's not recommended to have this module in a production database.
+
+该模块提供了生成数据库分析文件的工具，该文件指示Odoo数据模型和模块数据在两个版本的Odoo之间是如何变化的。
+
+核心模块的数据库分析文件包含在OpenUpgrade发行版中，因此作为迁移脚本开发人员，您通常不需要自己使用此工具。
+
+如果您确实需要运行自定义模块集的分析，请参阅此处的文档：https://doc.therp.nl/openupgrade/analysis.html
+
+此模块只是一个工具，是openupgrade中旧的openupgrade_records在以前版本中的延续。不建议在生产数据库中包含此模块。
 
 **Table of contents**
 
@@ -99,7 +107,7 @@ promote its widespread use.
 
 Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
 
-|maintainer-StefanRijnhart| |maintainer-legalsylvain| 
+|maintainer-StefanRijnhart| |maintainer-legalsylvain|
 
 This module is part of the `OCA/server-tools <https://github.com/OCA/server-tools/tree/15.0/upgrade_analysis>`_ project on GitHub.
 
