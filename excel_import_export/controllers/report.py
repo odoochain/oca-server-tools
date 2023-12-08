@@ -4,8 +4,7 @@
 import base64
 import json
 import logging
-
-from werkzeug.urls import url_decode
+from urllib.parse import parse_qs
 
 from odoo import http
 from odoo.http import content_disposition, request, route, serialize_exception
@@ -78,7 +77,7 @@ class ReportController(report.ReportController):
                 return self.report_routes(
                     reportname, docids=docids, converter="excel", context=context
                 )
-            data = dict(url_decode(url.split("?")[1]).items())
+            data = dict(parse_qs(url.split("?")[1]).items())
             if "context" in data:
                 context, data_context = json.loads(context or "{}"), json.loads(
                     data.pop("context")
